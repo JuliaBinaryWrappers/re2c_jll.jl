@@ -1,0 +1,288 @@
+[[re2c]]
+arch = "aarch64"
+git-tree-sha1 = "d57dc178fd53e8b4499fda446dff91b5883d182a"
+os = "macos"
+
+    [[re2c.download]]
+    sha256 = "ec4a84f8a2125614e48132e9e38b4b0126daf2a8ccf18eeb61edc3858d49a146"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.aarch64-apple-darwin.tar.gz"
+[[re2c]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7389133b388197c1a4261babd31c97f440bb3e95"
+libc = "glibc"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "8fcbd85b1c2c7c5d66c007348d06bf709f7c67b8acea40464d88fbbd8f711509"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[re2c]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ce277baeebc22499665a56be46661c69dadaa697"
+libc = "glibc"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "6dd4cdb934a5f5bc7de58d5cdf20f9113545be56350c5d03607d1b3dd6ec35e3"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[re2c]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "309ea4270632476a82a7e9b6379879e7b48bf541"
+libc = "musl"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "59a993a10935200d87056de62f41ff670ebb9230a2c8fd099894937968707188"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[re2c]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "caf0b85f09f74c091c02ac9881ec44c228c24283"
+libc = "musl"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "2ab59fac04e61e86314fdfc98e16f5e059d9bde685cff0dc307960c28ee71704"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[re2c]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "af5e6924eb7f380f06a7d1e6f76759a4241e0919"
+libc = "glibc"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "8d167436eee69597d37f7ad61c5a01b8a710a62160bf02e059618c8b88a102c4"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[re2c]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cfe1849f44e325ac9e003ed792843f8e4b06a758"
+libc = "glibc"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "4a9d8cf9f8dd22c8ae5fce4e2103a08915cb5324b8a9aeb931a6f1733ebd9d4e"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[re2c]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "37038635dbed3b501722da74565a520fa550dac8"
+libc = "musl"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "97cfa9ed30c9e5ccc52abbd4b264b92f0ad9ffcc483537ef35065169cf9016f0"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[re2c]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2daf68f98a5c41db5182567703063c600ece2196"
+libc = "musl"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "d971e23f8a80bcec06e04763374ef036633c73ee6fe9e0853fe089bc18335b96"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[re2c]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d910541edf0b46fa2ab104ba0bac609a5063edce"
+libc = "glibc"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "bf3abe3f035d0ee0d58d36711cab5aa435f3df408d617dea1bd895b02c14c0b5"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[re2c]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "04bbd367c326f37cff1323ccfe7469954d10b9ff"
+libc = "glibc"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "9884e977da2a4861bf9f14067fe569166be36d6f8a8861e638eec2e3519ec112"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[re2c]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "db992b1475492999efd03b6d3708ab94d902bfbd"
+libc = "musl"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "776bdf61da9c5379fc29d1f5ec04212a489ce62b52110f07e4aadff72ab4785f"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[re2c]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6040fb73db7144a5736280f9463ce16cbe47e14d"
+libc = "musl"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "b5804c206f983c169da88498c5bd915f7ec4f2c6e9b7e80de0e82347bfa1a75b"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[re2c]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6ab3e3ed21637c2554e7ef3c827a65538c5e171e"
+libc = "glibc"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "2138cc262101851d8b86e59d3bc5fdea7f363d466a436366319e42fcfd0494a2"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[re2c]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "10c3adb2a13b909e8c556032731b8d5b4f5c7c3c"
+libc = "glibc"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "adf9fe7302083ed708ec77aad52b63f358a8708b06eac57fb4c264e79957d8ba"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[re2c]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fcbaeaf1fcc1378c10d924e27d36f358116ad696"
+libc = "musl"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "5fddbad9a5767feebfa55152f7af5e4de9013d2949406492e1ca280b4c87942f"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.i686-linux-musl-cxx03.tar.gz"
+[[re2c]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b02237c35cde41485f5bb450ed67474c52f07e9a"
+libc = "musl"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "84fee22f0d426d281e6aa88f27e5a6bf059c99f2ebc51f55f0f067e8d6323af4"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.i686-linux-musl-cxx11.tar.gz"
+[[re2c]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dc03124c33a5784bcbe3852e8c98f90fa96d61f6"
+os = "windows"
+
+    [[re2c.download]]
+    sha256 = "0b96ba2921343a6e2a0e9458700ad0e2e2213b83ba71421b4bbf0cd46feb1c13"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[re2c]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c68d6bdcf6af4d872e84558c4fea4fec58181ef6"
+os = "windows"
+
+    [[re2c.download]]
+    sha256 = "45e492bb24c56d24daf24a54d0084dd50ff2f04c868515aecacdbf03eac70b0b"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[re2c]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bf0366030fcefd625e9ccb7eefe715957638f9ce"
+libc = "glibc"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "f12d8ade330c5acf17264c588f7576d6d798f3e734130f0dc07a037e879515a0"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[re2c]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d3756f183c4e6eb78edeffc7f39f2253e8376e15"
+libc = "glibc"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "b421f58a2771b4191c0e6d37fed8ce48bcd89c346c4c54ffbff51515e78e9733"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[re2c]]
+arch = "x86_64"
+git-tree-sha1 = "f18f3800509b57c97bdf9a52b83ce24c5470d433"
+os = "macos"
+
+    [[re2c.download]]
+    sha256 = "94be303665446e9138ac3a06c27397c84c1cb71460c7e5d24be9ca5dc527d2f6"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.x86_64-apple-darwin.tar.gz"
+[[re2c]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2947af683a0801a65c65b47842154b46d7c743f5"
+libc = "glibc"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "5bf6467260a36ce9e0cc0d6ae75a096dcf03aaf196798a742a79ecfd0246c3ff"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[re2c]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "286294168cde35d9fc14cef6c7afb2ad0ccace28"
+libc = "glibc"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "c5e5d23c1481407c2c27ac1f0f867caf94018a108e14749b7c8f7a78f2d85e09"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[re2c]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7875b6cbb35ba624000270b9322b57c81fee7b97"
+libc = "musl"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "a2b7cb1f2e9b16b37fee959a0d729c8e6c377ff1b3356a01744dd35abe9a7d6a"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[re2c]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b234b41c4233d0737680cf0004fa0b602a3b6834"
+libc = "musl"
+os = "linux"
+
+    [[re2c.download]]
+    sha256 = "2173fb2f4aaf560c64b6443d193630ee0c922f2b01fc133ce9828802648f0319"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[re2c]]
+arch = "x86_64"
+git-tree-sha1 = "35bab16568e859c896eb54ed7de4d3141fef60a0"
+os = "freebsd"
+
+    [[re2c.download]]
+    sha256 = "f39133347c2071d0fe2b6da73784e631f2cf562e2471642ac1c2cb0a0d85f1aa"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.x86_64-unknown-freebsd.tar.gz"
+[[re2c]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7ef287ae867ef3abacca051eb63c9d63749bcb95"
+os = "windows"
+
+    [[re2c.download]]
+    sha256 = "77c48a12e646c2dae82b0f71f4ce7cbb9495e863149437ae1c6801866234c0e6"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[re2c]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "65803a3d1cbf269ddffc511bcc5329ad9db4bd8b"
+os = "windows"
+
+    [[re2c.download]]
+    sha256 = "5a5799b6cfd13f0a74342327fc8c3c4ece7e7bc0094a83ad0e32218c94d19747"
+    url = "https://github.com/JuliaBinaryWrappers/re2c_jll.jl/releases/download/re2c-v3.0.0+0/re2c.v3.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
